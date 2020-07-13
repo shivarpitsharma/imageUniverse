@@ -2,10 +2,6 @@ package com.project.imageuniverse.utilities
 
 import android.view.View
 
-/**
- * Created by Shivarpit
- */
-
 fun View.show() {
     this.visibility = View.VISIBLE
 }

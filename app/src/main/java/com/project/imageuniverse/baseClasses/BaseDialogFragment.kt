@@ -11,9 +11,7 @@ import android.widget.LinearLayout
 import androidx.fragment.app.DialogFragment
 import com.project.imageuniverse.R
 
-/**
- * Created by Shivarpit
- */
+
 abstract class BaseDialogFragment : DialogFragment() {
     abstract val layoutId: Int
 

@@ -4,9 +4,7 @@ import android.widget.Toast
 import com.project.imageuniverse.application.ImageUniverseApplication
 import com.project.imageuniverse.constants.AppWideConstants.DEFAULT_ERROR_MESSAGE
 
-/**
- * Created by Shivarpit
- */
+
 object ToastUtil {
     private val appContext = ImageUniverseApplication.instance.applicationContext
     fun makeShortToast(message: String?) {

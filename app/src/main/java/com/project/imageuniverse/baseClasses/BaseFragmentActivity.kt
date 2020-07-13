@@ -2,9 +2,7 @@ package com.project.imageuniverse.baseClasses
 
 import androidx.fragment.app.FragmentTransaction
 
-/**
- * Created by Shivarpit
- */
+
 abstract class BaseFragmentActivity : BaseActivity() {
     abstract val frameId: Int
 
