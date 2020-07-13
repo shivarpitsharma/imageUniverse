@@ -7,4 +7,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="DialogWindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+    </style>
+
 </resources>
